@@ -1,7 +1,6 @@
 ---
 name: how-to-use-gopeak-godot-mcp
-description: "Information for using `gopeak-godot-mcp`, the MCP server for Godot that lets AI assistants run, inspect, modify, and debug real projects end-to-end.
-Read this if you want to do godot-specific actions."
+description: "Guide for using gopeak-godot-mcp server. Read this if you want to do Godot-specific actions."
 ---
 
 ## Introduction

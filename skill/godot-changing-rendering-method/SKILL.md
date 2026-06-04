@@ -1,16 +1,6 @@
 ---
 name: godot-changing-rendering-method
-description: "If errors like below occurs, you should read this skill. 
-
-```log
-_initialize_device: D3D12CreateDevice failed with error 0x887a0004.
-
-initialize: Condition \"err != OK\" is true. Returning: ERR_CANT_CREATE
-
-initialize: Failed to initialize driver for device.
-
-DisplayServerWindows: Your video card drivers seem not to support Direct3D 12 or Vulkan, switching to OpenGL 3.
-```"
+description: "How to change rendering method when Direct3D 12 or Vulkan fails and Godot falls back to OpenGL."
 ---
 
 # Godot: Changing the Rendering Method
